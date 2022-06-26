@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Обо мне
+title: Услуги
 ---
 
 <p class="message">
