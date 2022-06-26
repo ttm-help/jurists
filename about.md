@@ -3,28 +3,40 @@ layout: page
 title: Обо мне
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Образование
+__2012__  
+ФГБОУ ВПО Саратовская государственная юридическая академия  
+_юридический психолог_  
+__2010__  
+ГОУ ВПО Саратовская государственная академия права  
+_переводчик в сфере профессиональной коммуникации_  
+__2009__  
+ГОУ ВПО Саратовская государственная академия права  
+_юстиция, Юриспруденция_  
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Опыт работы
+**Январь 2008 года - март 2010 года**   
+сфера: охрана   
+*договорная работа (ООО ЧОП «Элита»)*   
+**Март 2010 года - май 2010 года**  
+сфера: судебный юрист   
+*представление интересов физических и юридических лиц в арбитражных судах и судах общей юрисдикции (юрист ООО «Компромисс-М»)*   
+**Май 2010 года - апрель 2012 года**   
+сфера: судебный юрист  
+*договорная работа, представление интересов физических и юридических лиц в арбитражных судах и судах общей юрисдикции (директор юридической фирмы ООО «Компромисс-М»)*  
+**Июнь 2011 года - январь 2015 года**  
+сфера: строительство  
+*работа с контрактами ВЭД, ведение договорной работы, составление документации, ведение деловой переписки на английском языке, юридическое сопровождение деятельности организации -договорная, кадровая работа, регистрация юридических лиц, представительство в суде (начальник юридического отдела ООО «Империя грез»)*  
+**Май 2016 года - декабрь 2018 года**   
+сфера: металлургия  
+*юридическое сопровождение организации - договорная работа, судебное представительство, деловая переписка, лицензионная работа, кадровая работа, регистрация юридических лиц (Заместитель директора по правовым вопросам)*  
+**Январь 2019 года - сентябрь 2020 года**  
+сфера: судебный юрист   
+*представление интересов юридических и физических лиц в арбитражных судах и судах общей юрисдикции в г. Саратове*  
+**Октябрь 2020 года - декабрь 2021 года**  
+сфера: судебный юрист  
+*представление интересов юридических и физических лиц в арбитражных судах и судах общей юрисдикции в г. Геленджике, г. Краснодаре*  
+**Январь 2022 года - по настоящее время**   
+сфера: судебный юрист  
+*представление интересов юридических и физических лиц в арбитражных судах и судах общей юрисдикции в г. Москве, г. Саратове, г. Геленджике*
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!

@@ -1,30 +1,22 @@
 ---
 layout: page
-title: Услуги
+title: Услуги и стоимость
 ---
+ 
+## Услуги
+* Представительство в арбитражных судах, судах общей юрисдикции в г. Москве, г. Саратове, г. Геленджике, г. Краснодаре;  
+* Анализ документов, судебной практики, отработка стратегии по решению любого вопроса в сфере земельных правоотношений, строительства, градостроительной деятельности;  
+* Эскизные проекты экстерьер;  
+* Авторское право, интеллектуальная собственность;  
+* Наставничество для начинающих юристов - консультации, помощь в формировании стратегий ведения судебных дел.    
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Что получает клиент:  
+* Команду из профессиональных опытных юристов со стажем работы от 10 лет,  
+* Ориентированность юристов на результаты клиентов и их четкая фиксация,  
+* Системный подход к работе,  
+* Гарантия конфиденциальности и неразглашения информации,  
+* Договор об оказании юридических услуг.  
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+## Стоимость  
+Стоимость *консультации* 5 000 (пять тысяч) рублей с анализом документов клиента и судебной практики    
+Стоимость *дальнейшей работы* обсуждается отдельно и зависит от категории дел, продолжительности ведения и тд.
