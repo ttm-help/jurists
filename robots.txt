@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://konovalova-jurist.ru/sitemap.xml
