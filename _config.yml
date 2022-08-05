@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            'Коновалова Оксана Валерьевна'
 tagline:          'Юрист'
-description:      'Сообщество юристов<br/> Геленджик-Москва-Саратов'
+description:      'Сайт сообщества юристов. Геленджик-Москва-Саратов'
 url:              https://konovalova-jurist.ru
 baseurl:          /
 

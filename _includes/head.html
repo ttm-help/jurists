@@ -1,5 +1,5 @@
 <head>
-  <link href="https://gmpg.org/xfn/11" rel="profile">
+  <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
@@ -13,6 +13,12 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
+  <meta name="description"
+        content="{% if page.description %}
+                    {{ page.description }}
+                 {% else %}
+                    {{ site.description }}
+        {% endif %}"/>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">
@@ -24,8 +30,6 @@
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
   <link rel="shortcut icon" href="/public/favicon.ico">
 
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
   <!-- verification tags-->
   <meta name="google-site-verification" content="61JGufcYdxp0LupDn-hKYfiWaNiSnFM1NYLNwp_NHMU" />
   <meta name="yandex-verification" content="b7b6675c430661a4" />
